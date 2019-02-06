@@ -149,27 +149,27 @@ void close(void) {
     // system("cls");
     system("clear");
     red();
-    printf("Created By Aishwarya Sinha");
+    printf("Created By Abhay Soni");
     fordelay(100000000);
     // system("cls");
     system("clear");
     yellow();
-    printf("*Created By Aishwarya Sinha*");
+    printf("*Created By Abhay Soni*");
     fordelay(100000000);
     // system("cls");
     system("clear");
     red();
-    printf("**Created By Aishwarya Sinha**");
+    printf("**Created By By Abhay Soni**");
     fordelay(100000000);
     // system("cls");
     system("clear");
     yellow();
-    printf("***Created By Aishwarya Sinha***");
+    printf("***Created By By Abhay Soni***");
     fordelay(100000000);
     // system("cls");
     system("clear");
     red();
-    printf("##***Created By Aishwarya Sinha***##");
+    printf("##***Created By By Abhay Soni***##");
     fordelay(300000000);
 }
 
@@ -873,7 +873,8 @@ void login(){
 }
 
 //this is the Welcome screen of the application
-void menu(void){   int choice;
+void menu(void){   
+    int choice;
     // system("cls");
     // system("color 9");
     system("clear");
